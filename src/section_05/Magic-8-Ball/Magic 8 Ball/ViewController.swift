@@ -12,6 +12,15 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var imageView: UIImageView!
     
+    // 全ての画像を配列に格納
+    let ballArray = [
+        UIImage(named: "ball1"),
+        UIImage(named: "ball2"),
+        UIImage(named: "ball3"),
+        UIImage(named: "ball4"),
+        UIImage(named: "ball5"),
+    ]
+    
     @IBAction func askButtonPressed(_ sender: UIButton) {
     }
 }
