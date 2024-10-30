@@ -47,7 +47,6 @@
                         <color key="backgroundColor" red="0.47058823529411764" green="0.61568627450980395" blue="0.73725490196078436" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
-                        <outlet property="askButtonPressed" destination="mrm-dO-hGK" id="gfF-Q0-fJ0"/>
                         <outlet property="imageView" destination="l06-RU-uW9" id="4dK-kn-mH4"/>
                     </connections>
                 </viewController>
